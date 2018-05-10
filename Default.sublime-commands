@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Create Rspec file for current module.",
+    "command": "create_rspec_file"
+  }
+]
